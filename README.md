@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bern.campilho@gmail.com**
 
-- 📄 Know about my experiences [(to be added soon)]((to be added soon))
+- 📄 Know about my experiences [https://www.linkedin.com/in/bernardo-campilho-02b257167/)
 
 - ⚡ Fun fact **I can produce voluntary nystagmus, which basically means I can twitch my eyes at will :)**
 
