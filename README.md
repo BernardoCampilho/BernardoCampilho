@@ -2,7 +2,7 @@
 <h3 align="center">A Medical Physics MSc student from Portugal</h3>
 
 - 👨‍💻 The projects I have been developing for the past year will be posted soon! (awaiting publication before being able to post)
-- 
+
 - 📫 How to reach me **bern.campilho@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bernardo-campilho-02b257167/)
