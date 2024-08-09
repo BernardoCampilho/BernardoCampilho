@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bernardo Campilho</h1>
-<h3 align="center">A Medical Physics MSc student from Portugal</h3>
+<h3 align="center">A Medical Physics PhD student from Portugal</h3>
 
-- 👨‍💻 The projects I have been developing for the past year will be posted soon! (awaiting publication before being able to post)
 
 - 📫 How to reach me: **bern.campilho@gmail.com**
 
